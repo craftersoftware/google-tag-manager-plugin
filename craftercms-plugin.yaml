@@ -39,15 +39,15 @@ plugin:
     minor: 0
     patch: 19
   description: A plugin to add Google Tag Manager to a site
-  documentation: "https://raw.githubusercontent.com/craftercms/google-tag-manager-plugin/master/readme.md"
+  documentation: "https://raw.githubusercontent.com/craftersoftware/google-tag-manager-plugin/master/readme.md"
   website:
     name: Google Tag Manager Plugin
-    url: https://github.com/craftercms/google-tag-manager-plugin
+    url: https://github.com/craftersoftware/google-tag-manager-plugin
   media:
     screenshots:
       - title: Google Tag Manager
         description: Google Tag Manager
-        url: https://raw.githubusercontent.com/craftercms/google-tag-manager-plugin/master/.crafter/cover.png
+        url: https://raw.githubusercontent.com/craftersoftware/google-tag-manager-plugin/master/.crafter/cover.png
   developer:
     company:
       name: CrafterCMS
